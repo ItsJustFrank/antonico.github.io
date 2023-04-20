@@ -9,10 +9,10 @@ const elts = {
 
 // The strings to morph between. You can change these to anything you want!
 const texts = [
-"Hola",
-"Buenas",
-"Tardes",
-"cómo está",
+"Si",
+"Lees",
+"Esto",
+"Eres",
 "usté seño",
 "hehehehehe seño",
 "rokeli?"];
